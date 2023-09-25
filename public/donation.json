@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/Gp3c6Hh/Health.png",
+        "title": "Clean water for children",
+        "category": "Health",
+        "category_bg": "#3B74ED",
+        "card_bg": "#3B74ED",
+        "text_color": "#0052FF",
+        "description": "Ensuring clean water for everyone is a crucial goal for sustainable developmentSustainable Development Goal 6 (SDG 6) aims to ensure availability and sustainable management of water and sanitation for all. Access to clean water and sanitation is critical for the health of people and the planet.",
+        "price": "$100.00"
+      },
+      {
+        "id": 2,
+        "image": "https://i.ibb.co/j6NDnp4/Food.png",
+        "title": "Better Food for Everyone",
+        "category": "Food",
+        "category_bg": "#467BEA",
+        "card_bg": "#467BEA",
+        "text_color": "#FC6B18",
+        "description": "Better Food for Everyone is a concept that emphasizes the importance of good food for the well-being of individuals, communities, and the planet. It recognizes that good food is essential for maintaining good health, reaching one's potential, and fostering strong communities and economies. The United Nations has recognized the significance of good food and has organized the Food Systems Summit to address the challenges related to food production, accessibility, and sustainability.",
+        "price": "$250.00"
+      },
+      {
+        "id": 3,
+        "image": "https://i.ibb.co/p43fwZ4/Clothing.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "category_bg": "#5EFA76",
+        "card_bg": "#5EFA76",
+        "text_color": "#0FE330",
+        "description": "A used clothing drive is a charitable event where people donate their gently used clothes, shoes, and accessories to be distributed to those in need. The donated items are then sorted, cleaned, and distributed to the less fortunate. The aim of such drives is to provide clothing to people who cannot afford it and to reduce the amount of textile waste that ends up in landfills.",
+        "price": "$330.00"
+      },
+      {
+          "id": 4,
+          "image": "https://i.ibb.co/NKcdVB3/Education.png",
+          "title": "Good education",
+          "category": "Education",
+          "category_bg": "#FC8E6B",
+          "card_bg": "#FC8E6B",
+          "text_color": "#F56233",
+          "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork.",
+          "price": "$420"
+      },
+      {
+          "id": 5,
+          "image": "https://i.ibb.co/p43fwZ4/Clothing.png",
+          "title": "Sustainable Fashion",
+          "category": "Clothing",
+          "category_bg": "#5EFA76",
+          "card_bg": "#5EFA76",
+          "text_color": "#0FE330",
+          "description": "The fashion industry is increasingly recognizing the need for sustainability. Brands are adopting various measures to produce garments that fit a variety of body types instead of using standard sizes4. Additionally, 3D technology is being used for virtual dressing, enabling consumers to see how a garment looks on them before making a purchase.",
+          "price": "$200"
+      },
+      {
+          "id": 6,
+          "image": "https://i.ibb.co/NKcdVB3/Education.png",
+          "title": "Benefits of Early Childhood Education",
+          "category": "Education",
+          "category_bg": "#FC8E6B",
+          "card_bg": "#FC8E6B",
+          "text_color": "#F56233",
+          "description": "Early childhood education is critical for a child's development. It provides a foundation for learning and helps children develop social, emotional, and cognitive skills. Studies have shown that children who receive quality early childhood education are more likely to succeed in school and in life. Early childhood education can also help reduce the achievement gap between disadvantaged children and their peers.",
+          "price":"$350"
+      },
+      {
+          "id":"7",
+          "image":"https://i.ibb.co/Gp3c6Hh/Health.png",
+          "title":"Workplace Health Programs",
+          "category":"Health",
+          "category_bg":"#3B74ED",
+          "card_bg":"#3B74ED",
+          "text_color":"#0052FF",
+          "description":"These programs are designed to promote healthy behaviors and improve the overall health of employees. They can include a variety of interventions such as fitness classes, nutrition counseling, stress management, and weight loss programs. The Centers for Disease Control and Prevention (CDC) provides a model for implementing workplace health programs that includes individual and organizational level strategies.",
+          "price":"$170"
+      },
+      {
+          "id":"8",
+          "image":"https://i.ibb.co/j6NDnp4/Food.png",
+          "title":"Eat Right",
+          "category":"Food",
+          "category_bg":"#467BEA",
+          "card_bg":"#467BEA",
+          "text_color":"#FC6B18",
+          "description":"The Eat Right India movement is an initiative by the Government of India and the Food Safety and Standards Authority of India (FSSAI). It aims to transform the country's food system to ensure safe, healthy, and sustainable food for all Indians.",
+          "price":"$550"
+      },
+      {
+        "id":"9",
+        "image":"https://i.ibb.co/j6NDnp4/Food.png",
+        "title":"Food and Climate Change",
+        "category":"Food",
+        "category_bg":"#467BEA",
+        "card_bg":"#467BEA",
+        "text_color":"#FC6B18",
+        "description":"What we eat, and how that food is produced, affects our health but also the environment. Food needs to be grown and processed, transported, distributed, prepared, consumed, and sometimes disposed of. Each of these steps creates greenhouse gases that trap the sun's heat and contribute to climate change. About a third of all human-caused greenhouse gas emissions is linked to food.",
+        "price":"$230"
+    },
+    {
+        "id":"10",
+        "image":"https://i.ibb.co/Gp3c6Hh/Health.png",
+        "title":"Community Health Workers",
+        "category":"Health",
+        "category_bg":"#3B74ED",
+        "card_bg":"#3B74ED",
+        "text_color":"#0052FF",
+        "description":"These programs train individuals from the community to provide basic health services and education to their peers. CHWs can help improve access to healthcare, reduce health disparities, and promote healthy behaviors. They can provide services such as health screenings, medication management, and chronic disease management.",
+        "price":"$290"
+    },
+    {
+        "id":"11",
+        "image":"https://i.ibb.co/NKcdVB3/Education.png",
+        "title":"The Future of Education",
+        "category":"Education",
+        "category_bg":"#FC8E6B",
+        "card_bg":"#FC8E6B",
+        "text_color":"#F56233",
+        "description":"The future of education is exciting and full of possibilities. With advances in technology, we can expect to see more personalized learning experiences, virtual classrooms, and global collaborations. The focus will shift from memorization to critical thinking, creativity, and problem-solving skills.The future of education will be shaped by the needs of students, teachers, and society as a whole.",
+        "price":"$440"
+    },
+    {
+        "id":"12",
+        "image":"https://i.ibb.co/p43fwZ4/Clothing.png",
+        "title":"Slow Fashion Movement",
+        "category":"Clothing",
+        "category_bg":"#5EFA76",
+        "card_bg":"#5EFA76",
+        "text_color":"#0FE330",
+        "description":"The slow fashion movement emerged as a reaction to the rapid expansion of the fast fashion industry. It aims to address issues such as the exploitation of garment workers and pollution caused by the fashion industry. Slow fashion encourages sustainable practices, including buying fewer but higher-quality garments, supporting ethical brands, and promoting fair trade.",
+        "price":"$370"
+    }
+]
