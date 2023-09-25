@@ -7,14 +7,14 @@ const DonationDetails = () => {
     const idInt = parseInt(id);
     const donation = donations.find( donation => donation.id === idInt);
     console.log(donation);
-    const { image, title, price, text_color } = donation;
+    // const { title, price, text_color, image } = donation;
     return (
         <div>
             <div className="w-52 border-3 mx-auto">
-                <div>
-                    <img src={image} className="w-full" alt={title} />
+                {/* <div>
+                    <img src={image} className="w-60" alt={title} />
                    <h1>{title}</h1>
-                </div>
+                </div> */}
                 
             </div>
         </div>
