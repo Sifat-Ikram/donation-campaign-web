@@ -67,7 +67,7 @@
           "price":"$350"
       },
       {
-          "id":"7",
+          "id":7,
           "image":"https://i.ibb.co/YN0L1YR/Workplace-Healthy-Survey-Data-Final-large.jpg",
           "title":"Health Programs",
           "category":"Health",
@@ -78,7 +78,7 @@
           "price":"$170"
       },
       {
-          "id":"8",
+          "id":8,
           "image":"https://i.ibb.co/M616yqQ/owc-eat-right.jpg",
           "title":"Eat Right",
           "category":"Food",
@@ -89,7 +89,7 @@
           "price":"$550"
       },
       {
-        "id":"9",
+        "id":9,
         "image":"https://i.ibb.co/ygTzCwM/download.jpg",
         "title":"Food Change",
         "category":"Food",
@@ -100,7 +100,7 @@
         "price":"$230"
     },
     {
-        "id":"10",
+        "id":10,
         "image":"https://i.ibb.co/sCyQ6RB/UNICEF-RR-1377-PHC-30-01-2020-sujanmap.jpg",
         "title":"Health Workers",
         "category":"Health",
@@ -111,7 +111,7 @@
         "price":"$290"
     },
     {
-        "id":"11",
+        "id":11,
         "image":"https://i.ibb.co/B4ZN9Tr/The-future-of-education-blog-image-1200x600px-1-1132x600.jpg",
         "title":"The Future of Education",
         "category":"Education",
@@ -122,7 +122,7 @@
         "price":"$440"
     },
     {
-        "id":"12",
+        "id":12,
         "image":"https://i.ibb.co/8KRGw7C/Slow-fashion-movement-1024x569.jpg",
         "title":"Fashion Movement",
         "category":"Clothing",
