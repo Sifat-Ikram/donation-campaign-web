@@ -1,14 +1,16 @@
 import { useEffect, useState } from "react";
 import Donation from "./Donation";
+import PropTypes from 'prop-types';
 
 
-const Donations = ({ value }) => {
+const Donations = ({value}) => {
     const [donation, setDonation] = useState([]);
     useEffect(() => {
         fetch('donation.json')
             .then(res => res.json())
             .then(data => setDonation(data));
     }, [])
+    
     const getFilteredCategory =()=>{
         if(!value){
             return donation;
@@ -27,6 +29,10 @@ const Donations = ({ value }) => {
             </div>
         </div>
     );
+};
+
+Donation.propTypes = {
+    value: PropTypes.array
 };
 
 export default Donations;
