@@ -1,8 +1,8 @@
-
+import PropTypes from 'prop-types';
 
 const DonatedItems = ({ donation }) => {
-    const { id, image, title, price, category, category_bg, card_bg, text_color } = donation;
-    console.log(donation);
+    const { image, title, price, category, category_bg, card_bg, text_color } = donation;
+  
     return (
         <div className="flex gap-10 rounded-lg" style={{ backgroundColor: card_bg }}>
             <div>
@@ -21,5 +21,9 @@ const DonatedItems = ({ donation }) => {
         </div>
     );
 };
+
+DonatedItems.propTypes = {
+    donation: PropTypes.object.isRequired
+}
 
 export default DonatedItems;
